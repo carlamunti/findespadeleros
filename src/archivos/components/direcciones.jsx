@@ -52,7 +52,7 @@ export function HommePage() {
 }
 
 export function Calendar() {
-  return <h1>Voy a hacer el calendario iepp</h1>;
+  return <h1>Calendar</h1>;
 }
 
 export function Contact() {
