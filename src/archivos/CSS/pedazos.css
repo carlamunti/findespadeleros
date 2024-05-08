@@ -1,0 +1,22 @@
+.column-card {
+  flex: 1; /* Hace que cada tarjeta ocupe todo el espacio disponible */
+  max-width: 33%; /* Ajusta el ancho máximo de cada tarjeta al 33% */
+  padding: 0 1em; /* Espacio horizontal entre las tarjetas */
+  margin: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: var(--main-white-color);
+}
+
+.container {
+  padding: 1em;
+  text-align: center;
+}
+
+.imagen-card {
+  width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+}
+
+
+
+
